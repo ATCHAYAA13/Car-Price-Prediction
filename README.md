@@ -20,7 +20,7 @@ To run the code in this repository, you'll need the following dependencies:
 
 The repository includes a plot showing the relationship between the actual prices and predicted prices of cars using linear regression. This plot helps visualize how well the model performs in predicting car prices. Ideally, the points should fall close to the diagonal line, indicating a strong correlation between the actual and predicted prices.
 
-![Actual vs Predicted Prices Plot](actual price vs predicted price.png)
+![Actual vs Predicted Prices Plot]([https://github.com/ATCHAYAA13/Car-Price-Prediction/blob/main/actual%20price%20vs%20predicted%20price.png])
 
 ## Source of Dataset
 

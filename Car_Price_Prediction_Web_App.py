@@ -7,7 +7,7 @@ Created on Fri Jul 12 21:28:17 2024
 
 import numpy as np, pickle, streamlit as st
 
-loaded_model = pickle.load(open("/Car_Price_Prediction_Web_App/trained_model/trained-model.sav",'rb'))
+loaded_model = pickle.load(open("trained-model.sav",'rb'))
 
 
 #Function for prediction

@@ -6,12 +6,7 @@ The Car Price Prediction project is designed to estimate the market value of use
 ## Features
 - **Accurate Price Prediction:** Utilizes advanced machine learning algorithms to estimate car prices based on features such as make, model, year, mileage, and fuel type.
 - **Interactive Web Interface:** Built with Streamlit, providing a user-friendly and intuitive interface for easy input of car details and immediate price predictions.
-- **Data-Driven Insights:** Offers predictions based on historical data, helping users understand potential car values and market trends.
-- **Real-Time Predictions:** Delivers instant feedback and price estimates, enhancing user experience with quick responses.
 - **Docker Containerization:** Containerized for consistent deployment and environment across different systems.
-- **Modular Design:** Features a well-organized codebase with distinct modules for data preprocessing, model training, and prediction, facilitating easy maintenance and updates.
-- **Customizable and Scalable:** Allows for easy adaptation and integration with additional features or systems, such as expanding the model or enhancing the interface.
-- **Example Data Provided:** Includes sample data files in the `data/` directory to test and validate predictions.
 
 ## Technology Stack
 - **Python:** Programming language used for development.
